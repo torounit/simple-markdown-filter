@@ -1,0 +1,14 @@
+{
+    "name": "torounit/simple-markdown-filter",
+    "type": "wordpress-plugin",
+    "require": {
+        "erusev/parsedown": "^1.6"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Hiroshi Urabe",
+            "email": "mail@torounit.com"
+        }
+    ]
+}
